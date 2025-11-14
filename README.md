@@ -5,6 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.7+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active-success.svg)
+![project](solvit.space/projects/vacancies_statistics)
 
 ## 🚀 Быстрый старт
 
